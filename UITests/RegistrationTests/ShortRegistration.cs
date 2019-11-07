@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestAutomationFramework
+namespace UITests.RegistrationTests
 {
-    public class Class1
+    public class ShortRegistration : BaseTest
     {
+
     }
 }
